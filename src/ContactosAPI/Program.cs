@@ -43,4 +43,13 @@ record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 }
 
-public partial class program{}
+//Inicio del pograma para iniciar
+
+public partial class Program
+{
+    public static void Main(string[] args)
+    {
+        // tu código
+    }
+}
+

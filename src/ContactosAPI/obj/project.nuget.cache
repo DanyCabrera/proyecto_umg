@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tNzzcQ4IAVmtTi6gp7TLYrP4/ihQfTHWL64IhGi531ZQgGdPXGSP3JH/2u9Eb9NfJ+tk+HnzppjoCgYs4kWsaw==",
+  "dgSpecHash": "1quc7tNrUUGAbMovs/JWr8I0zL4GQt3sYRyTPuKkIrcDegsdLEeLKpBT3eNlYF3/2yHaik8sNlWMr7mGUapoxA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\Documents\\proyecto_analisis\\src\\ContactosAPI\\ContactosAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.15\\microsoft.aspnetcore.openapi.8.0.15.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
