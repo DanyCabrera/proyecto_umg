@@ -1,0 +1,8 @@
+C:\Users\Usuario\Documents\proyecto_analisis\src\ApiContactor.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_ApiContactor.Tests
+C:\Users\Usuario\Documents\proyecto_analisis\src\ApiContactor.Tests\obj\Debug\net8.0\ApiContactor.Tests.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\proyecto_analisis\src\ApiContactor.Tests\obj\Debug\net8.0\MvcTestingAppManifest.json
+C:\Users\Usuario\Documents\proyecto_analisis\src\ApiContactor.Tests\obj\Debug\net8.0\ApiContactor.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\proyecto_analisis\src\ApiContactor.Tests\obj\Debug\net8.0\ApiContactor.Tests.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\proyecto_analisis\src\ApiContactor.Tests\obj\Debug\net8.0\ApiContactor.Tests.AssemblyInfo.cs
+C:\Users\Usuario\Documents\proyecto_analisis\src\ApiContactor.Tests\obj\Debug\net8.0\ApiContactor.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\proyecto_analisis\src\ApiContactor.Tests\obj\Debug\net8.0\ApiContactor.Tests.sourcelink.json

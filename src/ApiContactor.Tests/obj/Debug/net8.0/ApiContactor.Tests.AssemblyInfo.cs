@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ContactosAPI")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ApiContactor.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68ddcb85670074efff4923929f825b4a0b72d8f0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ContactosAPI")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ContactosAPI")]
+[assembly: System.Reflection.AssemblyProductAttribute("ApiContactor.Tests")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ApiContactor.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
